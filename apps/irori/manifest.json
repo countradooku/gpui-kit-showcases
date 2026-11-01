@@ -1,0 +1,22 @@
+{
+  "id": "irori",
+  "name": "Irori",
+  "author": "irori-app",
+  "description": "A fast, native game launcher for Linux, macOS and Windows. Epic Games, GOG, Amazon, itch.io, Steam, emulators and your own games in one calm library, with Wine and Proton management, cloud saves and a controller-friendly Big Picture mode.",
+  "category": "system",
+  "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+  ],
+  "website": "https://irori.app",
+  "source": "https://github.com/irori-app/irori",
+  "publishedAt": "2026-11-01T00:00:00Z",
+  "previews": [
+    "preview0.png",
+    "preview1.png",
+    "preview2.png",
+    "preview3.png",
+    "preview4.png"
+  ]
+}
